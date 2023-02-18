@@ -1,0 +1,11 @@
+defaultTheme: dark
+disableThemeToggle: true
+displayFullLangName: true
+ShowPostNavLinks: true
+ShowBreadCrumbs: true
+ShowCodeCopyButtons: true
+ShowRssButtonInSectionTermList: true
+ShowToc: true
+
+homeInfoParams:
+    Title: 早上好

@@ -1,0 +1,10 @@
+baseURL: "https://sekai.icu/"
+title: 世界
+paginate: 5
+theme: PaperMod
+
+copyright: 世界
+disablePathToLower: true
+enableEmoji: true
+hasCJKLanguage: true
+languageCode: zh-Hans
