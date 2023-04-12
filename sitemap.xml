@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sekai.icu/posts/hello/</loc>
-    <lastmod>2023-02-15T23:49:03-03:00</lastmod>
-  </url><url>
     <loc>https://sekai.icu/posts/</loc>
-    <lastmod>2023-02-15T23:49:03-03:00</lastmod>
+    <lastmod>2023-04-12T22:09:36+08:00</lastmod>
   </url><url>
     <loc>https://sekai.icu/</loc>
+    <lastmod>2023-04-12T22:09:36+08:00</lastmod>
+  </url><url>
+    <loc>https://sekai.icu/posts/udp-fqdn-in-transport-proxy/</loc>
+    <lastmod>2023-04-12T22:09:36+08:00</lastmod>
+  </url><url>
+    <loc>https://sekai.icu/posts/hello/</loc>
     <lastmod>2023-02-15T23:49:03-03:00</lastmod>
   </url><url>
     <loc>https://sekai.icu/about/</loc>
