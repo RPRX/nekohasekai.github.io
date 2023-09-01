@@ -3,10 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sekai.icu/posts/</loc>
-    <lastmod>2023-04-12T22:09:36+08:00</lastmod>
+    <lastmod>2023-09-01T13:31:25+08:00</lastmod>
   </url><url>
     <loc>https://sekai.icu/</loc>
-    <lastmod>2023-04-12T22:09:36+08:00</lastmod>
+    <lastmod>2023-09-01T13:31:25+08:00</lastmod>
+  </url><url>
+    <loc>https://sekai.icu/posts/the-myth-of-xtls/</loc>
+    <lastmod>2023-09-01T13:31:25+08:00</lastmod>
+  </url><url>
+    <loc>https://sekai.icu/posts/a-year-of-sing-box/</loc>
+    <lastmod>2023-08-27T12:02:16+08:00</lastmod>
   </url><url>
     <loc>https://sekai.icu/posts/udp-fqdn-in-transport-proxy/</loc>
     <lastmod>2023-04-12T22:09:36+08:00</lastmod>
